@@ -42,13 +42,13 @@ util包里则是一些为了快速便捷地完成功能而设置的工具包，�
 8. 配置完成，打开CinemaSystem/CinemaSystem/src/run/TestLogin, 点击运行，即可开始运行。
 
 ### 部分功能界面展示
-！[](CinemaSystem/1.jpg)
-！[](2.jpg)
-！[](3.jpg)
-！[](4.jpg)
-！[](5.jpg)
-！[](6.jpg)
-！[](7.jpg)
-！[](8.jpg)
+！[1](1.jpg)
+！[2](2.jpg)
+！[3](3.jpg)
+！[4](4.jpg)
+！[5](5.jpg)
+！[6](6.jpg)
+！[7](7.jpg)
+！[8](8.jpg)
 
 
