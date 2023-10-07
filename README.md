@@ -40,3 +40,6 @@ util包里则是一些为了快速便捷地完成功能而设置的工具包，�
 6. 打开CinemaSystem/CinemaSystem/database/CSDAO.sql， 右键运行，可以看到“在 341毫秒中32/32 条语句已执行 (文件中有 4,556 个符号)”的提示，说明数据库配置成功
 7. 也可以在外部的数据库管理组织软件中完成，这里我用的是Navicat来完成第6步的配置，这里请您自选
 8. 配置完成，打开CinemaSystem/CinemaSystem/src/run/TestLogin, 点击运行，即可开始运行。
+
+### 部分功能界面展示
+[1.jpg](登录)
